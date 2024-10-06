@@ -1,0 +1,26 @@
+@media screen and (max-width: 944px) {
+    .container {
+      width: 100%;
+      margin: 0;
+      padding: 45px 24px;
+    }
+  
+    .header-heading {
+      font-size: 32px;
+    }
+  
+    .section {
+      margin: 48px 0;
+    }
+  
+    .section-heading {
+      font-size: 24px;
+      margin: 24px 0;
+    }
+  
+    .mbti-char {
+      width: 26px;
+      font-size: 32px;
+    }
+  }
+  
